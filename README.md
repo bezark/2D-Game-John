@@ -1,6 +1,5 @@
 # 2D-Game-John
 
-I made some changes!
 wooo hoooo!!!
 
 

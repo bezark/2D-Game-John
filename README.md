@@ -3,4 +3,6 @@
 wooo hoooo!!!
 
 
- My 2d game for IVGD
+I made an amazing game in this session.
+
+dog runs to the finish line
